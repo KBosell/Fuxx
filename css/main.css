@@ -1,0 +1,89 @@
+body {
+    background-image: url('../img/back.jpg');
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#container {
+
+}
+
+#title {
+    font-family: 'Kaushan Script', cursive;
+}
+
+#logo {
+    float:left;
+    position:absolute;
+    left:575px;
+    top:500px;
+}
+
+#logo img {
+    width:250px;
+    height:auto;
+}
+
+li {
+    font-size:13px;
+}
+
+.rules {
+    background-color:black;
+    border-radius:10px;
+    position:relative;
+    top:30px;
+    left:-50px;
+    float:left;
+    padding:30px;
+}
+
+h1 {
+    font-weight: 400 !important;
+}
+
+.imgtop {
+    max-width: 550px;
+}
+
+code {
+    color:purple;
+}
+
+#peeps {
+    background-color:black;
+    border-radius:10px;
+    width:455px;
+    height:330px;
+    position:absolute;
+    top:160px;
+    /*left:570px;*/
+    right:150px;
+
+}
+
+#peeps h3 {
+    font-family: 'Kaushan Script', cursive;
+}
+
+.pic img {
+    width:35px;
+    height:35px;
+    margin-right:5px;
+}
+.name {
+}
+
+.person {
+    float:left;
+    padding-left:20px;
+}
+
+#user {
+    position:relative;
+    top:30px;
+    min-width: 260px;
+    float:right;
+    padding:30px;
+    border-radius:10px;
+}
